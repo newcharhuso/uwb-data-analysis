@@ -1,0 +1,4 @@
+Series name,Samples Count,Minimum,Maximum,Average,StdDev_Uniform,StdDev_RangeRule
+/SRS51/error_distance1/data[Absolute],1234,0.108098,76.80419,1.246526,22.140254680996154,19.174023000000002
+/SRS51/error_distance2/data[Absolute],1234,0.0284,53.326691,1.212198,15.385891328098504,13.32457275
+/SRS51/error_distance3/data[Absolute],1234,0.025165,55.747779,1.173294,16.085733096424807,13.9306535
