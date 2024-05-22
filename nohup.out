@@ -1,6 +1,0 @@
-xkbcommon: ERROR: couldn't find a Compose file for locale "en_US.UTF_8" (mapped to "en_US.UTF_8")
-[143 13:57:11.141154] [glfw error 65544]: Failed to create XKB compose table for locale en_US.UTF_8
-[143 13:57:11.156013] The output buffer does not support sRGB color encoding, colors will be incorrect.
-[143 13:57:11.722041] [PARSE ERROR] Unknown OSC escape code: 13;#e6e1df
-[143 13:57:11.722136] [PARSE ERROR] Unknown OSC escape code: 708;#0A0A0E
-[143 13:57:15.116451] [PARSE ERROR] Escape codes to resize text area are not supported
